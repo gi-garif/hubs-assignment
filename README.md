@@ -1,5 +1,5 @@
 ### Assignment description:
-Write an automated test to check model uploading on https://www.hubs.com/manufacture/using Python 3.8 (or any latest version) and PyTest
+Write an automated test to check model uploading on https://www.hubs.com/manufacture/ using Python 3.8 (or any latest version) and PyTest
 
 ### Requirements:
 * Python 3.10.6
